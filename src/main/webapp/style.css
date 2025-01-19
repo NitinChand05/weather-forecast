@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+body {
+    margin: 0;
+    padding: 0;
+    background: url('images/background.jpg') no-repeat center center/cover;
+    font-family: 'Arial', sans-serif;
+   
+  }
+  
+  .container {
+    color: #333;
+  }
+  
+  input.form-control {
+    max-width: 400px;
+  }
+  
+  .bg-white {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+ 
+  
+
+  .vh-100 {
+    min-height: 100vh;
+  }
+  .input-group {
+    max-width: 400px;
+    width: 100%;
+  }
+
+  
+  
+  
